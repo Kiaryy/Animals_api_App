@@ -3,8 +3,9 @@
  
 ## APIs used:
 + The Cat Api: ***https://thecatapi.com/***
-![alt text](https://github.com/Kiaryy/Animals_api_App/blob/main/Thumbnails/Cat!!.PNG?raw=true)
+
 + Dog Ceo Api: ***https://dog.ceo/***
-![alt text](https://github.com/Kiaryy/Animals_api_App/blob/main/Thumbnails/Dog!!.PNG?raw=true)
+
 + Random Fox: ***https://randomfox.ca/***
-![alt text](https://github.com/Kiaryy/Animals_api_App/blob/main/Thumbnails/Fox!!.PNG?raw=true)
+
+![alt text](https://github.com/Kiaryy/Animals_api_App/blob/main/Thumbnails/Cat!!.PNG?raw=true)
