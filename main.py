@@ -7,6 +7,7 @@ def main():
     pygame.init()
     width, height = 800,600
     screen = pygame.display.set_mode((width, height))
+    pygame.display.set_caption("Animals!!!")
     clock = pygame.time.Clock()
     image = image_handler(screen)
     img = image.get_cat()
